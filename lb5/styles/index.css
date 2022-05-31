@@ -1,0 +1,30 @@
+.block{
+	min-height: 300px;
+	margin: 100px auto;
+	width: 300px;
+	background-color: #0F75FF;
+	text-align: center;
+	padding-bottom: 20px;
+}
+a{
+	text-decoration: none;
+    user-select: none;
+    word-wrap: unset;
+    white-space: nowrap;
+    color: 	black;
+}
+h3{
+	padding-top: 20px;	
+}
+ol{
+	padding: 0px;
+}
+.butonlab{
+    width: 100px;
+   	margin:  10px auto;
+    list-style-type: none;
+    text-align: center;
+    background-color: green;
+    border: 3px solid black;
+    max-height: 20px;
+}
